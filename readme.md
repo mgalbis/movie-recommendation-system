@@ -1,3 +1,3 @@
-# Movie Recommender System
+# Movie Recommendation System
 
 Proyecto final de la asignatura Aprendizaje Computacional. Grado en Ingeniería Informática - UOC, 2021.
